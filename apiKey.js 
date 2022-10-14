@@ -1,0 +1,3 @@
+const apiKey = '1zNiaxECefqGdudAxh6Pts4FrgpDh00ssK9BonLFj';
+const appId = 'croquetTest';
+export default {apiKey, appId};
